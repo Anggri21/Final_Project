@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275317387339",
+    "project_id": "anggri-fd3eb",
+    "storage_bucket": "anggri-fd3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275317387339:android:f1aff8d13a3cf17b9c9dce",
+        "android_client_info": {
+          "package_name": "com.example.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275317387339-uv5ghi5tgbdkcp0v70d14ddraldasir2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczLmuYZnq2e0G7-IFAiNgAkNswkKAsO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275317387339-uv5ghi5tgbdkcp0v70d14ddraldasir2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
